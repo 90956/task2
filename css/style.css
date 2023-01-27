@@ -1,0 +1,91 @@
+ul li{
+    
+    display: inline-block;
+    padding: 50px;
+}
+.alpha{
+    margin: 30px;
+    text-align: left;
+    font-size:x-large;
+}
+.beta2 h1{
+    color: green;
+
+}
+.beta{
+    background-color: #f6f7f6;
+
+
+}
+
+.beta2 span{ 
+    display: inline-block;
+    padding: 40px 150px;
+}
+.top span{
+    display: inline-block;
+}
+.bottom{
+      
+        padding: 23px 40px 85px;
+        margin: 0 0px;
+        background-color: lightgreen;
+}
+.bottom1{
+    
+    padding: 56px 40px;
+    margin: 0 0px;
+    
+}
+.bottom:hover, .bottom1:hover{
+    background-color: aquamarine;
+    display: inline-block;
+
+}
+.left{
+    display: inline-block;
+}
+div .right {
+    display: inline-block;
+    padding: 70px;
+    margin: 0 0px;
+
+}
+.course span big{
+    
+    line-height: 60px;
+    width: 100px;
+    display: inline-block;
+    height: 2px;
+    background-color:#84c584;
+}
+
+.course .subject {
+    display: inline-block;
+    padding: 35px;
+}
+.subject h2{
+    color:green;
+}
+
+
+.photo{
+    display: inline-block;
+}
+.image span{
+    display: inline-block;
+}
+.big{
+    display: inline-block;
+}
+.small{
+    display: inline-block;
+    padding: 35px;
+}
+.one{
+    display: inline-block;
+}
+div .two span{
+    display: inline-block;
+    padding: 50px;
+}
